@@ -16,3 +16,4 @@ new Vue({
   store,
   router
 }).$mount('#app')
+//修改了
